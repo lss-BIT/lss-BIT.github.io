@@ -30,6 +30,10 @@ title: Services
 - Student Volunteer of the 38th Annual AAAI Conference on Artificial Intelligence (2024)
 - Student volunteer of the 44th session of the World Heritage Committee (2021)
 
+## School Service
 
+- Secretary of the Party Branch (2024, 2025)
+- Vice Secretary of the Youth League Committee in School of Artificial Intelligence (2023)
+- Monitor (2021, 2022)
 
 <br>
