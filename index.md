@@ -12,7 +12,7 @@ I am a second-year Master student at the Beijing Institute of Technology, superv
 
 Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an outstanding undergraduate scholar at the leading AI conferences AAAI 2024 and SIGKDD 2024.
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **lv_shuo [at] foxmail.com**
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **lv_shuo@foxmail.com**
 
 ---
 
@@ -36,7 +36,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ## My collaborators and friends
 
-- [Libo Zhang](https://scholar.google.com/citations?hl=zh-CN&user=8I-krtYAAAAJ) [at] SWU.
+- [Libo Zhang](https://scholar.google.com/citations?hl=zh-CN&user=8I-krtYAAAAJ)@SWU.
 
 <br>
 

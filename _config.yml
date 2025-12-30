@@ -1,35 +1,35 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Hanlin Cai   # Main site title (appears in browser tab & RSS)
-tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Here is personal website of Hanlin Cai, PhD Student at the University of Cambridge.  # Strongly recommended for SEO & social cards
+title: Shuo Lv   # Main site title (appears in browser tab & RSS)
+tagline: Here is personal website of Shuo Lv. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
+description: Here is personal website of Shuo Lv, PhD Student at the Beijing Institute of Technology.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://lss-bit.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Hanlin Cai
+  name: Shuo Lv
   avatar: hanlin.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
+  email: lv_shuo@foxmail.com
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  xiaohongshu: 5c27848f0000000005030c6f
-  instagram: lancecai2002
-  bilibili: 594030035
-  # facebook: caihanlin2002
+  twitter: 
+  github: https://github.com/lss-BIT
+  linkedin: https://www.linkedin.com/in/%E7%A1%95-%E5%90%95-793613399/
+  scholar: https://scholar.google.com/citations?user=VAsm0T8AAAAJ
+  # researchgate: 
+  # instagram: 
+  bilibili: https://space.bilibili.com/9570834?spm_id_from=333.1007.0.0
+  zhihu: https://www.zhihu.com/people/0000-3-47
+  xiaohongshu: https://www.xiaohongshu.com/user/profile/5fb2ad200000000001000e46?xsec_token=ABHeUI1FnyZMrBz-rEyJN0q4JRAgNrgG339z4BUoaJQ4I%3D&xsec_source=pc_search
+  # facebook: 
   # lastfm:
   # tumblr:
 
