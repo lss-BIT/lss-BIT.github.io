@@ -4,25 +4,25 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>https://caihanlin.com/</loc>
+      <loc>https://lss-bit.github.io/</loc>
     </url>
     <url>
-      <loc>https://caihanlin.com/file/Resume-HanlinCAI.pdf</loc>
+      <loc>https://lss-bit.github.io/file/Resume-HanlinCAI.pdf</loc>
     </url>
     <url>
-      <loc>https://caihanlin.com/publications/</loc>
+      <loc>https://lss-bit.github.io/publications/</loc>
     </url>    
     <url>
-      <loc>https://caihanlin.com/projects/</loc>
+      <loc>https://lss-bit.github.io/projects/</loc>
     </url>
     <url>
-      <loc>https://caihanlin.com/awards/</loc>
+      <loc>https://lss-bit.github.io/awards/</loc>
     </url>   
     <url>
-      <loc>https://caihanlin.com/hobbies/</loc>
+      <loc>https://lss-bit.github.io/passions/</loc>
     </url>
     <url>
-      <loc>https://caihanlin.com/blogs/</loc>
+      <loc>https://lss-bit.github.io/blogs/</loc>
     </url>
 
     {% comment %}
@@ -35,4 +35,4 @@ layout: nil
 </urlset>
 
 <!-- 这个页面是否配置并不影响正常显示，重点关注_config.yml文件的配置即可 -->
-<!-- Lastly update by Hanlin CAI in 2023/04/26 -->
+<!-- Lastly modified by Shuo Lv in 2026/01/01 -->

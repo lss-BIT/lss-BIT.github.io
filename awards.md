@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Scholarships[]
+## Scholarships
 
 - Dec 2024: First Prize Scholarship of BIT
 - Dec 2023: Gratitude to Modern Chinese Scientists Scholarship
@@ -23,12 +23,14 @@ title: Awards
 
 ## Competitions
 
-- Oct 2024: First Prize in The China Collegiate Computing Contest
+- Oct 2024: First Prize in The China Collegiate Computing Contest - AIGC Innovation Track
 - Oct 2023: Second Prize in The China Undergraduate Mathematical Contest in Modeling
 - Jul 2023: First Prize in The China Robotics and Artificial Intelligence Competition
+- May 2023: Special Prize in The Chongqing Challenge Cup National College Student Curricular Academic Science and Technology Works Competition
 - May 2023: Honorable Mention in The Mathematical Contest in Modeling (MCM)
 - Aug 2022: Second Prize in The China Robotics and Artificial Intelligence Competition
 - May 2022: Honorable Mention in The Mathematical Contest in Modeling (MCM)
+- Aug 2021: Second Prize at the China Computer Game Championship
 <!--
 - Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
 - Aug 2023：**Best Technology Award** in National Youth Science Innovation Project Competition (Top 1%)

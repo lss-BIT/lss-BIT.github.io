@@ -2,17 +2,23 @@
 layout: page
 ---
 
+> I will try anything once. 
+
 # About Me
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-Here is **Shuo Lv** [(吕硕)](https://www.eng.cam.ac.uk/profiles/hc663).<br>
+I am currently a second-year Master student at Beijing Institute of Technology, under the mentorship of [Prof. Guoyuan Yang](https://scholar.google.com/citations?hl=zh-CN&user=xSf5O4IAAAAJ). My academic journey has been a progressive pursuit of excellence across top-tier institutions. I completed my bachelor’s degree at Southwest University, guided by [Prof. Libo Zhang](https://scholar.google.com/citations?user=8I-krtYAAAAJ&hl=zh-CN), who first ignited my passion for academic inquiry. 
 
-I am a second-year Master student at the Beijing Institute of Technology, supervised by [Prof. Guoyuan Yang](https://scholar.google.com/citations?hl=zh-CN&user=xSf5O4IAAAAJ). I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+My research lies at the dynamic intersection of cognitive neuroscience, large language models, and complex networks. 
 
-Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an outstanding undergraduate scholar at the leading AI conferences AAAI 2024 and SIGKDD 2024.
+I am enthusiastic about forging collaborative partnerships across disciplines and welcome opportunities to work with researchers who share similar interests or complementary expertise. Feel free to reach out to me directly via email at — **lv_shuo@foxmail.com**. 
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **lv_shuo@foxmail.com**
+---
+
+## Education Background
+
+
 
 ---
 

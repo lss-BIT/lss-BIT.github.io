@@ -3,7 +3,7 @@
 # --------------------------------------------------
 title: Shuo Lv   # Main site title (appears in browser tab & RSS)
 tagline: Here is personal website of Shuo Lv. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Here is personal website of Shuo Lv, PhD Student at the Beijing Institute of Technology.  # Strongly recommended for SEO & social cards
+description: Here is personal website of Shuo Lv, Master Student at the Beijing Institute of Technology.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
@@ -51,12 +51,14 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Services
-    url: /services/
+  - title: Projects
+    url: /projects/
+  # - title: Services
+  #   url: /services/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  - title: Passions
+    url: /passions/
   - title: Blogs
     url: /blogs/
   - title: 中文
